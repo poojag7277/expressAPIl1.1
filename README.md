@@ -2,7 +2,7 @@
 
 ## Description
 
-Express Level 2 Practice is a web application built using Node.js and Express. This project serves as a hands-on practice to enhance skills in building RESTful APIs, handling middleware, and managing data interactions.
+expressAPIl1.1 is a web application built using Node.js and Express. This project serves as a hands-on practice to enhance skills in building RESTful APIs, handling middleware, and managing data interactions.
 
 ## Table of Contents
 
