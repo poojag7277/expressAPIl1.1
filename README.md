@@ -35,12 +35,14 @@ expressAPIl1.1 is a web application built using Node.js and Express. This projec
 
 ### Clone the repository:
     
-bash
+bash 
+
     git clone https://github.com/poojag7277/expressAPIl1.1
     cd expressAPIl1.1
 ### Install the dependencies:
     
 bash
+
     npm install
     
 ### Start the application:
