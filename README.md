@@ -6,14 +6,14 @@ expressAPIl1.1 is a web application built using Node.js and Express. This projec
 
 ## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- 🎗️[Features](#features)
+- 😎[Technologies Used](#technologies-used)
+- 👍[Installation](#installation)
+- 👌[Usage](#usage)
+- 🫡[API Endpoints](#api-endpoints)
+- 😍[Contributing](#contributing)
+- 😁[License](#license)
+- 📞[Contact](#contact)
 
 ## Features
 
@@ -36,7 +36,7 @@ expressAPIl1.1 is a web application built using Node.js and Express. This projec
 ### Clone the repository:
     
 bash
-    git clone https://github.com/88chinu/expressLevel2Practice.git
+    git clone https://github.com/poojag7277/expressAPIl1.1
     cd expressLevel2Practice
 ### Install the dependencies:
     
